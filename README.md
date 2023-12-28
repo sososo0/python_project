@@ -1,14 +1,21 @@
 # python_project
 python 프로젝트 모음
 
-### 1) Django Study 
+### 1) Fast API Study 
+
+Fast API로 웹 애플리케이션 만들기 
+
+- 기간 : 2023.12.28 ~ 
+- [Related Repository](https://github.com/sososo0/Fast-API-study)
+
+### 2) Django Study 
 
 Django로 웹 애플리케이션 만들기 
 
 - 기간 : 2023.12.26 ~ 
 - [Related Repository](https://github.com/sososo0/Django-study)
 
-### 2) P2K VM Server 
+### 3) P2K VM Server 
 
 Flask로 가상환경 관리 서버 만들기 
 
@@ -16,7 +23,7 @@ Flask로 가상환경 관리 서버 만들기
 - [Related Repository - Initial Version](https://github.com/PNU-P2K/vm-server)
 - [Related Repository - Renewal Version (Not Yet Created)]()
 
-### 3) KAKAO TECH SMTP Server 
+### 4) KAKAO TECH SMTP Server 
 
 Flask로 SMTP 서버 만들기 
 
