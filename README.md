@@ -3,7 +3,7 @@ python 프로젝트 모음
 
 ### 1) Fast API Study 
 
-Fast API로 웹 애플리케이션 만들기 
+Fast API로 간단한 ToDo 서비스 만들기 
 
 - 기간 : 2023.12.28 ~ 
 - [Related Repository](https://github.com/sososo0/Fast-API-study)
